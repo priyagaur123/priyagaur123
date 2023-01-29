@@ -1,4 +1,4 @@
-# priyagaur123
+# priyagaur
 <h1 align="center">Hi 👋, I'm Priya Gaur</h1>
 <h3 align="center">A passionate learner from India</h3>
 
